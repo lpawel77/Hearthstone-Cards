@@ -1,0 +1,11 @@
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\bin\Debug\Hearthstone-cards.exe.config
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\bin\Debug\Hearthstone-cards.exe
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\bin\Debug\Hearthstone-cards.pdb
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\obj\Debug\Hearthstone-cards.csproj.AssemblyReference.cache
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\obj\Debug\Hearthstone-cards.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\obj\Debug\Hearthstone_cards.Form1.resources
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\obj\Debug\Hearthstone_cards.Properties.Resources.resources
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\obj\Debug\Hearthstone-cards.csproj.GenerateResource.cache
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\obj\Debug\Hearthstone-cards.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\obj\Debug\Hearthstone-cards.exe
+C:\Users\Pawel\source\repos\Hearthstone-cards\Hearthstone-cards\obj\Debug\Hearthstone-cards.pdb
